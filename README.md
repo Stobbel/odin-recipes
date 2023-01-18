@@ -1,0 +1,1 @@
+This is a tutorial repo for the Odin Project Online course. Recipes are boring though, so instead this is about various random Roman things.
